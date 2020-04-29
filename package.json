@@ -1,0 +1,23 @@
+{
+  "name": "nodesessions",
+  "version": "1.0.0",
+  "description": "NodeJS traning",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eherrada/NodeSessions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eherrada/NodeSessions/issues"
+  },
+  "homepage": "https://github.com/eherrada/NodeSessions#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
